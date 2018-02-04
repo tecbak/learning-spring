@@ -1,6 +1,6 @@
 package ua.rud.model;
 
-public class User {
+public class User implements DomainObject{
     private String firstName;
     private String lastName;
 
